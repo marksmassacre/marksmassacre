@@ -2,9 +2,9 @@
 
 <!--
 **marksmassacre/marksmassacre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313cg6rfzfw3zy6dkomgrpti2ggq&cover_image=true&theme=default&show_offline=false&background_color=81c9c0&interchange=true&bar_color=f5f593)](https://spotify-github-profile.kittinanx.com/api/view?uid=313cg6rfzfw3zy6dkomgrpti2ggq&redirect=true)
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+https://spotify-github-profile.kittinanx.com/api/view?uid=313cg6rfzfw3zy6dkomgrpti2ggq&cover_image=true&theme=default&show_offline=false&background_color=81c9c0&interchange=true&bar_color=f5f593)](https://spotify-github-profile.kittinanx.com/api/view?uid=313cg6rfzfw3zy6dkomgrpti2ggq&redirect=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
