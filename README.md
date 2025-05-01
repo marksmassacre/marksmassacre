@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> haha btw i draw
+#
+
+
+![17461181991897615580775248206911](https://github.com/user-attachments/assets/74f0f912-e0a1-4d0d-926a-1bb7a399ba5a)
+
+![MySnapshot-15](https://github.com/user-attachments/assets/009cc900-2fc6-4a4c-81bb-a961ab967090)
+
+![images-1](https://github.com/user-attachments/assets/7432b74c-6646-44b2-8d6a-917f851f8268)
+`yeah!!`
+`als this is me 😼`
